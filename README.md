@@ -14,7 +14,7 @@
 I'm a passionate and curious developer currently diving deep into the world of web development and system design.  
 As a student of Information Systems and a lab assistant at LePKom, I constantly seek opportunities to **build**, **experiment**, and **grow** through real-world coding.
 
-When I'm not studying or helping in the lab, you'll find me crafting responsive UIs, optimizing backend logic, or exploring new tools and frameworks to improve my workflow.
+Right now, I'm actively exploring and deepening my understanding in the **IT field** — from backend logic, web performance, to mobile development and Linux-based workflows. I believe that consistency and curiosity are key to becoming a better developer every day.
 
 ---
 
@@ -23,25 +23,24 @@ When I'm not studying or helping in the lab, you'll find me crafting responsive 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Backend**: PHP (Native), MySQL
 - **Tools**: Git & GitHub, XAMPP, VS Code, Postman
-- **Currently Exploring**: API integration, Mobile Development (Android Studio), Linux (Ubuntu)
+- **Currently Exploring**: API integration, Android Development (Java), Ubuntu Linux
 
 ---
 
 ## 🛠️ Projects & Interests
 
-- 👨‍💻 Currently building small to medium-scale web apps
-- 📱 Exploring Android app development using Java
-- 🐧 Getting comfortable with the Linux environment for dev workflow
+- 👨‍💻 Developing web and mobile applications
+- 📱 Building Android apps using Java and XML
+- 🐧 Improving workflow through Linux (Ubuntu) and CLI tools
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: *(Add your LinkedIn link if you have one)*
-- 🌍 Portfolio: *(Optional if you have a portfolio site)*
+- 📫 Email: [farhnsndlr@gmail.com](mailto:farhnsndlr@gmail.com)
+- 💼 LinkedIn: *https://linkedin.com/in/farnsndlr*
+- 🌍 Portfolio: * *
 
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-
