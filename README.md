@@ -38,7 +38,7 @@ Right now, I'm actively exploring and deepening my understanding in the **IT fie
 ## 🤝 Let's Connect
 
 - 📫 Email: [farhnsndlr@gmail.com](mailto:farhnsndlr@gmail.com)
-- 💼 LinkedIn: *https://linkedin.com/in/farnsndlr*
+- 💼 LinkedIn: *https://linkedin.com/in/farhansultan*
 - 🌍 Portfolio: * *
 
 ---
