@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teuku Farhan Sultan Nadlir El Qahar</h1>
+<h1 align="center">Hi 👋, I'm Farhan Sultan Nadlir</h1>
 <p align="center">
   🎓 4th Semester Information Systems Student @ Gunadarma University  
   <br>
