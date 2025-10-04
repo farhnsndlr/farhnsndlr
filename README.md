@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Sultan Nadlir</h1>
 <p align="center">
-  🎓 4th Semester Information Systems Student @ Gunadarma University  
+  🎓 5th Semester Information Systems Student @ Gunadarma University  
   <br>
   🧑‍💻 Assistant at LePKom (Computer Laboratory, Gunadarma)  
   <br>
