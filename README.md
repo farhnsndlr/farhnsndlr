@@ -98,9 +98,9 @@ farhan@github:~$ fastfetch
 ```
 
 ```yaml
-OS: Linux
+OS: Endeavour
 Shell: Zsh
-Editor: VS Code
+Editor: VS Code | nano
 
 Backend:
   - Laravel
